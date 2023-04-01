@@ -10,7 +10,7 @@ Follow the steps below to download, install, and run this project.
 ## Dependencies
 Install these prerequisites to follow along with the tutorial. See free video tutorial or a full explanation of each prerequisite.
 - NPM: https://nodejs.org
-- Truffle: https://github.com/trufflesuite/truffle
+- Truffle: install on visual studio code in extention section
 - Ganache: http://truffleframework.com/ganache/
 - Metamask: https://metamask.io/
 
