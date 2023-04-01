@@ -9,10 +9,11 @@ Follow the steps below to download, install, and run this project.
 
 ## Dependencies
 Install these prerequisites to follow along with the tutorial. See free video tutorial or a full explanation of each prerequisite.
-- NPM: https://nodejs.org
+- Visual Studio Code : https://code.visualstudio.com/docs/?dv=win
+- NPM: https://nodejs.org/dist/v18.15.0/node-v18.15.0-x64.msi
 - Truffle: install on visual studio code in extention section
-- Ganache: http://truffleframework.com/ganache/
-- Metamask: https://metamask.io/
+- Ganache: https://github.com/trufflesuite/ganache-ui/releases/download/v2.7.0/Ganache-2.7.0-win-x64.appx
+- Metamask: https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn
 
 
 ## Step 1. Clone the project
