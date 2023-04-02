@@ -11,7 +11,7 @@ Follow the steps below to download, install, and run this project.
 Install these prerequisites .
 - Visual Studio Code : https://code.visualstudio.com/docs/?dv=win
 - NPM: https://nodejs.org/dist/v18.15.0/node-v18.15.0-x64.msi
-- Truffle: install on visual studio code in extention section
+- Truffle: npm install truffle -g
 - Ganache: https://github.com/trufflesuite/ganache-ui/releases/download/v2.7.0/Ganache-2.7.0-win-x64.appx
 - Metamask: https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn
 
